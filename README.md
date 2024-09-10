@@ -1,4 +1,4 @@
-Pad apertemuan ketiga ini merupakan contoh sederhana untuk menggambarkan penggunaan konsep-konsep pemrograman berorientasi objek dalam Java, seperti abstract, override, dan overload. 
+Pada pertemuan ketiga ini merupakan contoh sederhana untuk menggambarkan penggunaan konsep-konsep pemrograman berorientasi objek dalam Java, seperti abstract, override, dan overload. 
 Kode ini mencakup kelas utama Utama yang mendemonstrasikan penggunaan dua jenis pasar: PasarTradisional dan PasarModern.
 
 Class utama berisi metode main yang digunakan untuk menjalankan program.
